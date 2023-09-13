@@ -1,0 +1,9 @@
+setup.py
+clients_package/administrator.py
+clients_package/client.py
+clients_package/purchase.py
+clients_package/user.py
+clients_package.egg-info/PKG-INFO
+clients_package.egg-info/SOURCES.txt
+clients_package.egg-info/dependency_links.txt
+clients_package.egg-info/top_level.txt
